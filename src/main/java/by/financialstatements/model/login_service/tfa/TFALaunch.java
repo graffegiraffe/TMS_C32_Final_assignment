@@ -39,7 +39,7 @@ public class TFALaunch {
             throw new RuntimeException("Error creating QR code", e);
         }
         // Waiting for the user to enter the code
-        System.out.print("Please enter 2fA code here -> ");
+        System.out.print("Please enter 2fA code here: ");
         Scanner scanner = new Scanner(System.in);
         String code = scanner.nextLine();
         // Checking the entered code for correctness
