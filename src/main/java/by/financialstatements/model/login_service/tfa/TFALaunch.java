@@ -44,7 +44,7 @@ public class TFALaunch {
         String code = scanner.nextLine();
         // Checking the entered code for correctness
         if (code.equals(TFAUtils.getTOTPCode(secretKey))) {
-            CustomLogger.info("Two-factor authentication completed successfully.");
+            CustomLogger.info("Two-factor authentication completed successfully");
             return true;
         } else {
             LoginFailedException loginFailedException = new LoginFailedException("Error: Invalid authentication code", new Throwable("Invalid code"));
