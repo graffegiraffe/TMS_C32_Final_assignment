@@ -1,0 +1,545 @@
+2024-12-12 12:58:53 [INFO] Login and password are entered correctly
+2024-12-12 12:59:47 [INFO] Login and password are entered correctly
+2024-12-12 12:59:54 [INFO] Two-factor authentication completed successfully
+2024-12-12 12:59:54 [INFO] Session started successfully
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_01_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_01_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_01_2022.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2022.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_01_2022.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_08_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_08_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_08_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_06_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_06_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_06_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_02_2023.docx
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_02_2023.docx for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_02_2023.docx
+2024-12-12 12:59:57 [INFO] File processing: invoice_05_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_05_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_05_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_01_2021.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2021.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_01_2021.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_08_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_08_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_08_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_06_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_06_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_06_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_05_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_05_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_05_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_01_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_01_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_09_2022_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_09_2022_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_09_2022_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_01_2024.xlsx
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2024.xlsx for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_01_2024.xlsx
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_10_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_10_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_10_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_11_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_11_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_11_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_11_2022.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_11_2022.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_11_2022.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_10_2022.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_10_2022.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_10_2022.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_07_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_07_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_07_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_06_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_06_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_06_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_01_2023.xlsx
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2023.xlsx for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_01_2023.xlsx
+2024-12-12 12:59:57 [INFO] File processing: invoice_01_2021_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2021_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_01_2021_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_10_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_10_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_10_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_02_2022_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_02_2022_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_02_2022_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_03_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_03_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_03_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_07_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_07_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_07_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_06_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_06_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_06_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: handyman-contractor-invoice.pdf
+2024-12-12 12:59:57 [INFO] Checking the filehandyman-contractor-invoice.pdf for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for handyman-contractor-invoice.pdf
+2024-12-12 12:59:57 [INFO] File processing: invoice_03_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_03_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_03_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_10_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_10_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_10_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_11_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_11_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_11_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_10_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_10_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_10_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: artist-invoice.pdf
+2024-12-12 12:59:57 [INFO] Checking the fileartist-invoice.pdf for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for artist-invoice.pdf
+2024-12-12 12:59:57 [INFO] File processing: invoice_02_2024.docx
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_02_2024.docx for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_02_2024.docx
+2024-12-12 12:59:57 [INFO] File processing: invoice_12_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_12_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_12_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_11_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_11_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_11_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_09_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_09_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_09_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_08_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_08_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_08_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_01_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_01_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_02_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_02_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_02_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_03_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_03_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_03_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_02_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_02_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_02_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_09_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_09_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_09_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_08_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_08_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_08_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_03_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_03_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_03_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_02_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_02_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_02_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: aircraft-bill-of-sale.pdf
+2024-12-12 12:59:57 [INFO] Checking the fileaircraft-bill-of-sale.pdf for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for aircraft-bill-of-sale.pdf
+2024-12-12 12:59:57 [INFO] File processing: invoice_01_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_01_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_01_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_02_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_02_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_02_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_12_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_12_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_12_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_11_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_11_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_11_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_09_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_09_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_09_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_07_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_07_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_07_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_04_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_04_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_04_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_08_2022_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_08_2022_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_08_2022_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_04_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_04_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_04_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_05_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_05_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_05_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_12_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_12_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_12_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: hvac-invoice.pdf
+2024-12-12 12:59:57 [INFO] Checking the filehvac-invoice.pdf for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for hvac-invoice.pdf
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_12_2021.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_12_2021.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_12_2021.txt
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_12_2023.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_12_2023.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_12_2023.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_09_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_09_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_09_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: invoice_07_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_07_2023_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for invoice_07_2023_realhandy.txt
+2024-12-12 12:59:57 [INFO] File processing: invoice_04_2024_realhandy.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_04_2024_realhandy.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File invoice_04_2024_realhandy.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_04_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_04_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_04_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: INVOICE_05_2024.txt
+2024-12-12 12:59:57 [INFO] Checking the fileinvoice_05_2024.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File INVOICE_05_2024.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_03.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_03.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_03.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_02.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_02.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_02.txt
+2024-12-12 12:59:57 [INFO] File processing: supplier_bill.pdf
+2024-12-12 12:59:57 [INFO] Checking the filesupplier_bill.pdf for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for supplier_bill.pdf
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_01.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_01.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_01.txt
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_08.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_08.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_08.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_09.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_09.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_09.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_05.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_05.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_05.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_11.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_11.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_11.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_10.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_10.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_10.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_04.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_04.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_04.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_08.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_08.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_08.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_09.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_09.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_09.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_12.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_12.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_12.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_06.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_06.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_06.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_07.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_07.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_07.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_01.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_01.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_01.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_03.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_03.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_03.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_02.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_02.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_02.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_12.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_12.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_12.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_06.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_06.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_06.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_07.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_07.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_07.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_05.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_05.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_05.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_11.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_11.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_11.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_10.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_10.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_10.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_04.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_04.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_04.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_09.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_09.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_09.txt
+2024-12-12 12:59:57 [INFO] File processing: ElectricBill.pdf
+2024-12-12 12:59:57 [INFO] Checking the fileelectricbill.pdf for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for electricbill.pdf
+2024-12-12 12:59:57 [INFO] File processing: 2023_Electric_Bill_08.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_electric_bill_08.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_electric_bill_08.txt
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_07.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_07.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_07.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_12.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_12.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_12.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_06.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_06.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_06.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_07.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_07.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_07.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_06.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_06.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_06.txt
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_12.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_12.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_12.txt
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_04.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_04.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_04.txt
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_10.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_10.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_10.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_05.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_05.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_05.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_11.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_11.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_11.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_09.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_09.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_09.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Electric_Bill_08.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_electric_bill_08.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_electric_bill_08.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_10.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_10.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_10.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_04.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_04.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_04.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_11.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_11.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_11.txt
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_05.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_05.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_05.txt
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_01.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_01.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_01.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_01.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_01.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_01.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_02.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_02.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_02.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_03.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_03.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_03.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_Electric_Bill_02.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_electric_bill_02.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Electric_Bill_02.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2021_Electric_Bill_03.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_electric_bill_03.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_electric_bill_03.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_URDER_12.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_urder_12.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2024_urder_12.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_Order_09.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_order_09.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_order_09.txt
+2024-12-12 12:59:57 [INFO] File processing: 2022_order_08.txt
+2024-12-12 12:59:57 [INFO] Checking the file2022_order_08.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2022_order_08.txt
+2024-12-12 12:59:57 [INFO] File processing: 2021_ORDER_07.txt
+2024-12-12 12:59:57 [INFO] Checking the file2021_order_07.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2021_order_07.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_ODDER_01.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_odder_01.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_odder_01.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_ODDER_01.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_odder_01.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2024_odder_01.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_order_08.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_order_08.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_order_08.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_Order_09.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_order_09.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Order_09.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_Order_04.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_order_04.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Order_04.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_Order_10.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_order_10.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_Order_10.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2023_Order_04.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_order_04.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_order_04.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_ORDER_05.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_order_05.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_order_05.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_order_11.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_order_11.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_order_11.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2023_ORDER_07.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_order_07.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_order_07.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_ORDER_06.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_order_06.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_order_06.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_ORDER_12.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_order_12.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_ORDER_12.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_ORDER_02.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_order_02.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_ORDER_02.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2023_ORDER_02.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_order_02.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_order_02.txt
+2024-12-12 12:59:57 [INFO] File processing: 2023_ORDER_03.txt
+2024-12-12 12:59:57 [INFO] Checking the file2023_order_03.txt for compliance with validity criteria
+2024-12-12 12:59:57 [WARNING] Unknown or invalid file type for 2023_order_03.txt
+2024-12-12 12:59:57 [INFO] File processing: 2024_ORDER_03.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_order_03.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_ORDER_03.txt successfully moved
+2024-12-12 12:59:57 [INFO] File processing: 2024_ORDER_01.txt
+2024-12-12 12:59:57 [INFO] Checking the file2024_order_01.txt for compliance with validity criteria
+2024-12-12 12:59:57 [INFO] VALID: File 2024_ORDER_01.txt successfully moved
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_08_2024_realhandy.txt: Total Amount 150.67
+2024-12-12 12:59:57 [INFO] Extracted amount: 150.67
+2024-12-12 12:59:57 [INFO] Added to invoices: 150.67
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_05_2024_realhandy.txt: Total Amount 234.00
+2024-12-12 12:59:57 [INFO] Extracted amount: 234.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 234.0
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_06_2024_realhandy.txt: Total Amount  234.05
+2024-12-12 12:59:57 [INFO] Extracted amount: 234.05
+2024-12-12 12:59:57 [INFO] Added to invoices: 234.05
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_01_2024.txt: Total amount 1673$
+2024-12-12 12:59:57 [INFO] Extracted amount: 1673.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 1673.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_07_2024.txt: Total amount $303
+2024-12-12 12:59:57 [INFO] Extracted amount: 303.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 303.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_06_2024.txt: Total amount $177.08
+2024-12-12 12:59:57 [INFO] Extracted amount: 177.08
+2024-12-12 12:59:57 [INFO] Added to invoices: 177.08
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_10_2024_realhandy.txt: Total Amount  99.01
+2024-12-12 12:59:57 [INFO] Extracted amount: 99.01
+2024-12-12 12:59:57 [INFO] Added to invoices: 99.01
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_03_2024_realhandy.txt: Total Amount 564.00
+2024-12-12 12:59:57 [INFO] Extracted amount: 564.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 564.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_10_2024.txt: Total amount 600$
+2024-12-12 12:59:57 [INFO] Extracted amount: 600.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 600.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_11_2024.txt: Total amount 600$
+2024-12-12 12:59:57 [INFO] Extracted amount: 600.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 600.0
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_12_2024_realhandy.txt: Total Amount  399.99
+2024-12-12 12:59:57 [INFO] Extracted amount: 399.99
+2024-12-12 12:59:57 [INFO] Added to invoices: 399.99
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_09_2024.txt: Total amount 100$
+2024-12-12 12:59:57 [INFO] Extracted amount: 100.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 100.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_08_2024.txt: Total amount $405
+2024-12-12 12:59:57 [INFO] Extracted amount: 405.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 405.0
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_02_2024_realhandy.txt: Total Amount 144.00
+2024-12-12 12:59:57 [INFO] Extracted amount: 144.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 144.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_03_2024.txt: Total amount 1290
+2024-12-12 12:59:57 [INFO] Extracted amount: 1290.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 1290.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_02_2024.txt: Total amount 348
+2024-12-12 12:59:57 [INFO] Extracted amount: 348.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 348.0
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_01_2024_realhandy.txt: Total Amount 744.00
+2024-12-12 12:59:57 [INFO] Extracted amount: 744.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 744.0
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_11_2024_realhandy.txt: Total Amount  99.99
+2024-12-12 12:59:57 [INFO] Extracted amount: 99.99
+2024-12-12 12:59:57 [INFO] Added to invoices: 99.99
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_07_2024_realhandy.txt: Total Amount  50.89
+2024-12-12 12:59:57 [INFO] Extracted amount: 50.89
+2024-12-12 12:59:57 [INFO] Added to invoices: 50.89
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_12_2024.txt: Total amount 200$
+2024-12-12 12:59:57 [INFO] Extracted amount: 200.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 200.0
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_09_2024_realhandy.txt: Total Amount  100.67
+2024-12-12 12:59:57 [INFO] Extracted amount: 100.67
+2024-12-12 12:59:57 [INFO] Added to invoices: 100.67
+2024-12-12 12:59:57 [INFO] Last line of the file invoice_04_2024_realhandy.txt: Total Amount 24.00
+2024-12-12 12:59:57 [INFO] Extracted amount: 24.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 24.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_04_2024.txt: Total AMOUNT 33$
+2024-12-12 12:59:57 [INFO] Extracted amount: 33.0
+2024-12-12 12:59:57 [INFO] Added to invoices: 33.0
+2024-12-12 12:59:57 [INFO] Last line of the file INVOICE_05_2024.txt: Total   amount 337.78$
+2024-12-12 12:59:57 [INFO] Extracted amount: 337.78
+2024-12-12 12:59:57 [INFO] Added to invoices: 337.78
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_09.txt: Bill total amount EURO 99,00
+2024-12-12 12:59:57 [INFO] Extracted amount: 99.0
+2024-12-12 12:59:57 [INFO] Added to checks: 99.0
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_08.txt: Bill total amount EURO 199,12
+2024-12-12 12:59:57 [INFO] Extracted amount: 199.12
+2024-12-12 12:59:57 [INFO] Added to checks: 199.12
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_12.txt: Bill total amount EURO 3951,00
+2024-12-12 12:59:57 [INFO] Extracted amount: 3951.0
+2024-12-12 12:59:57 [INFO] Added to checks: 3951.0
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_06.txt: Bill total amount EURO 299,01
+2024-12-12 12:59:57 [INFO] Extracted amount: 299.01
+2024-12-12 12:59:57 [INFO] Added to checks: 299.01
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_07.txt: Bill total amount EURO 299,01
+2024-12-12 12:59:57 [INFO] Extracted amount: 299.01
+2024-12-12 12:59:57 [INFO] Added to checks: 299.01
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_05.txt: Bill total amount EURO 300,07
+2024-12-12 12:59:57 [INFO] Extracted amount: 300.07
+2024-12-12 12:59:57 [INFO] Added to checks: 300.07
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_11.txt: Bill total amount EURO 51,18
+2024-12-12 12:59:57 [INFO] Extracted amount: 51.18
+2024-12-12 12:59:57 [INFO] Added to checks: 51.18
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_10.txt: Bill total amount EURO 451,10
+2024-12-12 12:59:57 [INFO] Extracted amount: 451.1
+2024-12-12 12:59:57 [INFO] Added to checks: 451.1
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_04.txt: Bill total amount EURO 456,67
+2024-12-12 12:59:57 [INFO] Extracted amount: 456.67
+2024-12-12 12:59:57 [INFO] Added to checks: 456.67
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_01.txt: Bill total amount EURO 102,78
+2024-12-12 12:59:57 [INFO] Extracted amount: 102.78
+2024-12-12 12:59:57 [INFO] Added to checks: 102.78
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_03.txt: Bill total amount EURO 13415,00
+2024-12-12 12:59:57 [INFO] Extracted amount: 13415.0
+2024-12-12 12:59:57 [INFO] Added to checks: 13415.0
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Electric_Bill_02.txt: Bill total amount EURO 15,00
+2024-12-12 12:59:57 [INFO] Extracted amount: 15.0
+2024-12-12 12:59:57 [INFO] Added to checks: 15.0
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Order_09.txt: Order Total 154.00
+2024-12-12 12:59:57 [INFO] Extracted amount for order: 154.0
+2024-12-12 12:59:57 [INFO] Added to orders: 154.0
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Order_04.txt: Order Total 1,018.09
+2024-12-12 12:59:57 [INFO] Extracted amount for order: 1018.09
+2024-12-12 12:59:57 [INFO] Added to orders: 1018.09
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_Order_10.txt: Order Total 4,154.08
+2024-12-12 12:59:57 [INFO] Extracted amount for order: 4154.08
+2024-12-12 12:59:57 [INFO] Added to orders: 4154.08
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_order_11.txt: Order Total 567.00
+2024-12-12 12:59:57 [INFO] Extracted amount for order: 567.0
+2024-12-12 12:59:57 [INFO] Added to orders: 567.0
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_ORDER_12.txt: Order Total 6,570.09
+2024-12-12 12:59:57 [INFO] Extracted amount for order: 6570.09
+2024-12-12 12:59:57 [INFO] Added to orders: 6570.09
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_ORDER_02.txt: Order Total 128.11
+2024-12-12 12:59:57 [INFO] Extracted amount for order: 128.11
+2024-12-12 12:59:57 [INFO] Added to orders: 128.11
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_ORDER_03.txt: Order Total 18.00
+2024-12-12 12:59:57 [INFO] Extracted amount for order: 18.0
+2024-12-12 12:59:57 [INFO] Added to orders: 18.0
+2024-12-12 12:59:57 [INFO] Last line of the file 2024_ORDER_01.txt: Order Total 1,228.01
+2024-12-12 12:59:57 [INFO] Extracted amount for order: 1228.01
+2024-12-12 12:59:57 [INFO] Added to orders: 1228.01
+2024-12-12 12:59:57 [INFO] Statistics successfully written to file /Users/katusarublevsk/Downloads/final_project/src/main/resources/statistics.txt

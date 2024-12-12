@@ -1,0 +1,4 @@
+Statistics:
+  - Total turnover for all invoices: 8912,13
+  - Total turnover for all orders: 13837,38
+  - Total turnover for all checks: 19638,94
