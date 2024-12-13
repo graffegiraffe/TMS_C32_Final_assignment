@@ -1,4 +1,4 @@
-![sequence_diagram drawio-2](https://github.com/user-attachments/assets/9aaeb94f-7ae0-4e55-b11c-6b223858676e)# Financial Statements Processing System  
+# Financial Statements Processing System  
 
 ## Project Description  
 
