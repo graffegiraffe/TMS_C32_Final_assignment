@@ -163,7 +163,10 @@ The main goal is to create an application to process financial documents and pro
 ## Deliverables  
 
 ### Provided Technical Documentation:  
-1. **Solution Diagram**: General system overview diagram.  
+1. **Solution Diagram**: General system overview diagram.
+
+   ![solution_diagramm](https://github.com/graffegiraffe/TMS_C32_Final_assignment/blob/4b779308ef77eebce5d34e5cc443dd7169336fde/diagrams/solution_diagramm.png)
+   
 2. **Class Diagram**: Contains classes, their relationships, and responsibilities.
    
    ![FinancialStatements](https://github.com/user-attachments/assets/3584a0c3-b8de-4d45-9eb2-bd6a7a7d6c6f)
