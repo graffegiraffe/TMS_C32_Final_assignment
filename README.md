@@ -1,4 +1,4 @@
-# Financial Statements Processing System  
+![sequence_diagram drawio-2](https://github.com/user-attachments/assets/9aaeb94f-7ae0-4e55-b11c-6b223858676e)# Financial Statements Processing System  
 
 ## Project Description  
 
@@ -164,5 +164,12 @@ The main goal is to create an application to process financial documents and pro
 
 ### Provided Technical Documentation:  
 1. **Solution Diagram**: General system overview diagram.  
-2. **Class Diagram**: Contains classes, their relationships, and responsibilities.  
-3. **Sequence Diagram**: Shows the step-by-step flow of the program's logic.  
+2. **Class Diagram**: Contains classes, their relationships, and responsibilities.
+   
+   ![FinancialStatements](https://github.com/user-attachments/assets/3584a0c3-b8de-4d45-9eb2-bd6a7a7d6c6f)
+
+3. **Sequence Diagram**: Shows the step-by-step flow of the program's logic.
+
+   ![sequence_diagram drawio-2](https://github.com/user-attachments/assets/881a2aae-2793-450e-9971-4a0f5aaf8b01)
+
+   
